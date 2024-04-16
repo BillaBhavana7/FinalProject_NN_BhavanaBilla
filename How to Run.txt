@@ -1,0 +1,3 @@
+run mainRun.py
+==============
+python mainRun.py --input <Input Video File>
